@@ -1,0 +1,19 @@
+<?PHP
+include(blueboxset);		// Include local class lib
+$sess = new SessionData();		// Creates session object
+$log= new log($_SERVER[turnoverone], $_GET, $_POST);
+?>
+<html xmlns:fb=http:www.facebook.com>
+<font face=verdana color=black size=2><h1>What if...</h1>
+you could start over, re-build it, better than it is now, better than we thought possible...<br>
+<center><b>Without walls, without limits, we shall succeed.</b></center><br><br>
+<center>
+								<div id=-fb-root></div><script src=http://connect.facebook.net/en_US/
+<br>
+<a href=abrev class=clause1 rel=specife-end:fb.com><font color=black size=4>Continue</font></a>
+</center>
+</font>
+<html>102-clause 3 <20px*76px>
+(proxy101)transition-pg1-30:{automaticplug"friendslist"}
+:endplug-facebook.com:endresult- take1: fundamentals.com?facebook.com 
+<Plus (facebook.com) homescreen_takeletters;blue;green;red.>
